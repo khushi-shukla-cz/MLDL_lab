@@ -106,24 +106,3 @@ This repository is part of my academic work, but suggestions and improvements ar
 
 ---
 
-## 📌 Author
-
-**Khushi Shukla**
-🎓 IT Engineering Student (2023–2027)
-💻 Full Stack Developer | AI Enthusiast
-
----
-
-## ⭐ If you find this useful
-
-Give this repository a ⭐ and support the work!
-
----
-
-If you want, I can also:
-
-* 🔥 Add **badges (GitHub stats, tech stack, progress bar)**
-* 🎨 Make it **portfolio-level (top 5% GitHub README)**
-* 📸 Add **GIF demos + visuals for each experiment**
-
-Just tell me 👍
