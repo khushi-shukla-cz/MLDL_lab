@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can directly use for your GitHub repository 👇
-
----
-
 # 📊 Machine Learning & Deep Learning Lab Assignments
 
 This repository contains a collection of **Machine Learning and Deep Learning experiments** implemented as part of my academic coursework. The experiments focus on building practical understanding of core ML/DL algorithms using real-world datasets and modern frameworks.
@@ -77,52 +73,6 @@ This repository contains a collection of **Machine Learning and Deep Learning ex
 * Domain-specific ML/DL application
 
 ---
-
-## 📁 Repository Structure
-
-```
-📦 ML-DL-Lab
- ┣ 📂 Experiment-1-Linear-Logistic-Regression
- ┣ 📂 Experiment-2-Multiple-Lasso-Ridge
- ┣ 📂 Experiment-3-DecisionTree-RandomForest
- ┣ 📂 Experiment-4-KNN
- ┣ 📂 Experiment-5-SVM
- ┣ 📂 Experiment-6-Clustering
- ┣ 📂 Experiment-7-ANN
- ┣ 📂 (Upcoming Experiments...)
- ┗ 📜 README.md
-```
-
----
-
-## ⚙️ How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/ML-DL-Lab.git
-```
-
-2. Navigate to any experiment folder
-
-```bash
-cd Experiment-1-Linear-Logistic-Regression
-```
-
-3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the notebook/script
-
-```bash
-jupyter notebook
-```
-
----
-
 ## 📈 Learning Outcomes
 
 * Strong understanding of ML algorithms and their applications
