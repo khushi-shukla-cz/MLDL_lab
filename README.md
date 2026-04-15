@@ -63,6 +63,7 @@ This repository contains a collection of **Machine Learning and Deep Learning ex
 10. ✔️ **Autoencoders** ⭐
 
    * Image denoising and feature learning
+     
   
 ---
 
@@ -93,9 +94,9 @@ This repository contains a collection of **Machine Learning and Deep Learning ex
 | 5          | ✅ Completed |
 | 6          | ✅ Completed |
 | 7          | ✅ Completed |
-| 8          | ⏳ Pending   |
-| 9          | ⏳ Pending   |
-| 10         | ⏳ Pending   |
+| 8          | ✅ Completed |
+| 9          | ✅ Completed |
+| 10         | ✅ Completed |
 | 11         | ⏳ Pending   |
 
 ---
