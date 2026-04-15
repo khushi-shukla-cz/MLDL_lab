@@ -52,21 +52,21 @@ This repository contains a collection of **Machine Learning and Deep Learning ex
    * Built ANN using Keras/TensorFlow
    * Trained on structured dataset
 
----
-
-### 🔄 Pending Experiments
-
-8. ⏳ **Convolutional Neural Network (CNN)** ⭐
+8. ✔️ **Convolutional Neural Network (CNN)** ⭐
 
    * Image classification (MNIST / CIFAR-10)
 
-9. ⏳ **Recurrent Neural Network (RNN) / LSTM** ⭐
+9. ✔️ **Recurrent Neural Network (RNN) / LSTM** ⭐
 
    * Time-series or text data processing
 
-10. ⏳ **Autoencoders** ⭐
+10. ✔️ **Autoencoders** ⭐
 
-* Image denoising and feature learning
+   * Image denoising and feature learning
+  
+---
+
+### 🔄 Pending Experiments
 
 11. ⏳ **Mini Project** ⭐
 
