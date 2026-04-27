@@ -63,13 +63,9 @@ This repository contains a collection of **Machine Learning and Deep Learning ex
 10. ✔️ **Autoencoders** ⭐
 
    * Image denoising and feature learning
-     
-  
----
 
-### 🔄 Pending Experiments
 
-11. ⏳ **Mini Project** ⭐
+11. ✔️ **Mini Project** ⭐
 
 * Domain-specific ML/DL application
 
@@ -97,7 +93,7 @@ This repository contains a collection of **Machine Learning and Deep Learning ex
 | 8          | ✅ Completed |
 | 9          | ✅ Completed |
 | 10         | ✅ Completed |
-| 11         | ⏳ Pending   |
+| 11         | ✅ Completed |
 
 ---
 
